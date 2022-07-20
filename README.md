@@ -1,7 +1,7 @@
-## Projeto StartDB
+# Projeto StartDB
 
-# Projeto que foi passado como desafio técnico para a entrada no StartDB. 
-# Ele consiste em criar um jogo da forca que deve constar com todas as regras passadas:
+### Projeto que foi passado como desafio técnico para a entrada no StartDB. 
+### Ele consiste em criar um jogo da forca que deve constar com todas as regras passadas:
 
 1 - O jogo deve iniciar com 6 vidas
 
@@ -21,4 +21,4 @@
 
 9 - Caso a quantidade de vidas seja maior que zero e o jogador acerte a última letra, o estado do jogo deve mudar para ganhou.
 
-# Eu utilizei as classes em Javascript para montar o jogo, usando como base um construtor que vai receber a palavra e realizar os processos incluídos nas regas.
+### Eu utilizei as classes em Javascript para montar o jogo, usando como base um construtor que vai receber a palavra e realizar os processos incluídos nas regas.
